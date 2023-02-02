@@ -23,6 +23,7 @@ You’ll need to use the [MySQL2](https://www.npmjs.com/package/mysql2) and [Seq
 
 
 # Usage
+[Untitled_ Feb 1, 2023 7_26 PM.webm](https://user-images.githubusercontent.com/113136342/216200525-10fb7606-b3a8-480c-8394-c251fc821bf4.webm)
 
 
 ## License
